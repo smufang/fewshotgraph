@@ -19,3 +19,10 @@ This repository provides a curated collection of research papers focused on few-
     - [Blogs](#blogs)
   - [Contributing](#contributing)
   - [Citation](#citation)
+
+## Contributing
+
+:thumbsup: Contributions to this repository are highly encouraged!
+
+If you have any relevant resources to share, please feel free to open an issue or submit a pull request.
+
