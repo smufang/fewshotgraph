@@ -17,6 +17,11 @@ This repository provides a curated collection of research papers focused on few-
     - [Meta-Learning Approaches](#meta-learning)
       - [Structure-Based Enhancement](#structure-enhancement)
       - [Adaptation-Based Enhancement](#adaptation-enhancement)
+    - [Pre-Training Approaches](#pre-training)
+      - [Pre-Training Strategies](#pre-training-strategies)
+      - [Adaptation by Finetuning](#finetuning)
+      - [Parameter Efficient Adaptation](#parameter-efficient)
+    - [Hybrid Approaches](#hybrid) 
   - [Contributing](#contributing)
   - [Citation](#citation)
 
