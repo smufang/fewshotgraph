@@ -16,6 +16,11 @@ This repository provides a curated collection of research papers focused on few-
   - [Few-Shot Learning on Graphs: Techniques](#few-shot-technique)
     - [Meta-Learning Approaches](#meta-learning)
       - [Structure-Based Enhancement](#structure-enhancement)
+        1. **GPN** In CIKM'2020, [Paper](https://arxiv.org/pdf/2006.12739), [Code](https://github.com/kaize0409/GPN_Graph-Few-shot).
+          [![Encoder: GNN](https://img.shields.io/badge/Encoder-GNN-brightgreen)](#) 
+          [![Prompt as Tokens](https://img.shields.io/badge/Prompt%20as%20Tokens-red)](#) 
+          [![Downstream: Node](https://img.shields.io/badge/Downstream-Node-yellow)](#)
+
       - [Adaptation-Based Enhancement](#adaptation-enhancement)
     - [Pre-Training Approaches](#pre-training)
       - [Pre-Training Strategies](#pre-training-strategies)
