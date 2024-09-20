@@ -34,7 +34,7 @@ This repository provides a curated collection of research papers focused on few-
 1. **Graph Prototypical Networks for Few-shot Learning on Attributed Networks.** In *CIKM'2020*, [Paper](https://arxiv.org/pdf/2006.12739), [Code](https://github.com/kaize0409/GPN_Graph-Few-shot).\
 [![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Node-brightgreen)](#) 
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
-[![Task](https://img.shields.io/badge/Downstream-Node-yellow)](#)
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
 
 <a name="contributing"></a>
