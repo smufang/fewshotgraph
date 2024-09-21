@@ -19,6 +19,8 @@ This repository provides a curated collection of research papers focused on few-
       - [Adaptation-Based Enhancement](#adaptation-enhancement)
     - [Pre-Training Approaches](#pre-training)
       - [Pre-Training Strategies](#pre-training-strategies)
+        - [Contrastive Strategies](#contrastive-strategies)
+        - [Generative Strategies](#generative-strategies)
       - [Adaptation by Finetuning](#finetuning)
       - [Parameter-efficient Adaptation](#parameter-efficient)
     - [Hybrid Approaches](#hybrid) 
