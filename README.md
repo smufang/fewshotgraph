@@ -76,8 +76,13 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node,%20Edge-yellow)](#)
 
+
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
+1. **Graph few-shot learning via knowledge transfer.** In *AAAI'2020*, [Paper](https://grlearning.github.io/papers/13.pdf).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Graph-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
 <a name="pre-training"></a>
 ## Pre-Training Approaches
