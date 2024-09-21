@@ -114,6 +114,11 @@ This repository provides a curated collection of research papers focused on few-
 <a name="pre-training"></a>
 ## Pre-Training Approaches
 
+<a name="contrastive-strategies"></a>
+### Contrastive Strategies
+
+<a name="generative-strategies"></a>
+### Generative Strategies
 
 <a name="pre-training-strategies"></a>
 ### Pre-Training Strategies
