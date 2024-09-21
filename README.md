@@ -142,7 +142,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
-3. **Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.** In *WWW'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386),[Code](https://github.com/Starlien95/GraphPrompt).\
+3. **Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.** In *WWW'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386), [Code](https://github.com/Starlien95/GraphPrompt).\
 [![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
@@ -172,7 +172,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Pretext_tokens-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-8. **MultiGPrompt for multi-task pre-training and prompting on graphs.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423),[Code](https://github.com/Nashchou/MultiGPrompt).\
+8. **MultiGPrompt for multi-task pre-training and prompting on graphs.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423), [Code](https://github.com/Nashchou/MultiGPrompt).\
 [![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-All_layers-red)](#)
 [![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
@@ -210,14 +210,14 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-14. **PSP: Pre-training and structure prompt tuning for graph neural networks.** In *arXiv'2024*, [Paper](https://arxiv.org/pdf/2310.17394),[Code](https://github.com/gqq1210/PSP).\
+14. **PSP: Pre-training and structure prompt tuning for graph neural networks.** In *arXiv'2024*, [Paper](https://arxiv.org/pdf/2310.17394), [Code](https://github.com/gqq1210/PSP).\
 [![Template](https://img.shields.io/badge/Template-View_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Graph-blue)](#)
 
-15. **ULTRA-DP: Unifying graph pre-training with multi-task graph dual prompt.** In *arXiv'2023*, [Paper](https://arxiv.org/pdf/2310.14845),[Code](https://github.com/Keytoyze/ULTRA-DP).\
+15. **ULTRA-DP: Unifying graph pre-training with multi-task graph dual prompt.** In *arXiv'2023*, [Paper](https://arxiv.org/pdf/2310.14845), [Code](https://github.com/Keytoyze/ULTRA-DP).\
 [![Template](https://img.shields.io/badge/Template-Node--node/group_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
@@ -254,7 +254,8 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="tag"></a>
 #### Prompting on Text-attributed Graphs
-1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), [Code](https://github.com/WenZhihao666/G2P2).\
+1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), 
+ [Code](https://github.com/WenZhihao666/G2P2).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
 [![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-Vector-red)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
@@ -268,11 +269,11 @@ This repository provides a curated collection of research papers focused on few-
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
-3. **Natural language is all a graph needs.** In *EACL'2024*, [Paper](https://arxiv.org/abs/2308.07134), [code](https://github.com/agiresearch/InstructGLM).\
+3. **Natural language is all a graph needs.** In *EACL'2024*, [Paper](https://arxiv.org/abs/2308.07134), [Code](https://github.com/agiresearch/InstructGLM).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
-4. **GIMLET: A unified graph-text model for instruction-based molecule zero-shot learning.** In *NeurIPS'2023*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html), [code]( https://github.com/zhao-ht/GIMLET).\
+4. **GIMLET: A unified graph-text model for instruction-based molecule zero-shot learning.** In *NeurIPS'2023*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html), [Code]( https://github.com/zhao-ht/GIMLET).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Graph-blue)](#)
 
