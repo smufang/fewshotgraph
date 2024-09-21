@@ -99,6 +99,15 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
+5. **Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification.** In *CIKM'2020*, [Paper](https://arxiv.org/pdf/2003.08246).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Step%20Size-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Graph-yellow)](#)
+
+6. **Few-shot link prediction in dynamic networks.** In *WSDM'2022*, [Paper](https://yuanfulu.github.io/publication/WSDM-MetaDyGNN.pdf).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Hybrid-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
 <a name="pre-training"></a>
 ## Pre-Training Approaches
