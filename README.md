@@ -131,10 +131,26 @@ This repository provides a curated collection of research papers focused on few-
 <a name="text-free-graph"></a>
 #### Prompting on Text-free Graphs
 1. **GPPT: Graph pre-training and prompt tuning to generalize graph neural networks.** In *KDD'2022*, [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249).\
-[![Template](https://img.shields.io/badge/Template-subgraph--token_similarity-brightgreen)](#) 
-[![Feature prompt](https://img.shields.io/badge/Feature_prompt-input-red)](#) 
-[![Prompt Initialization](https://img.shields.io/badge/Prompt_Initialization-random-yellow)](#)
-[![Downstream Task](https://img.shields.io/badge/Downstream_Task-node-blue)](#)
+[![Template](https://img.shields.io/badge/Template-Subgraph--token_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_Initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.** In *CIKM'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615505).\
+[![Template](https://img.shields.io/badge/Template-Node--token_matching-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+3. **Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.** In *WWW'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386).\
+[![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+
+
+
 
 <a name="tag"></a>
 #### Prompting on Text-attributed Graphs
