@@ -41,6 +41,11 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
+3. **HMNet: Hybrid Matching Network for Few-Shot Link Prediction.** In *DASFAA'2021*, [Paper](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_21).\
+[![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Edge-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MN-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
+
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
 
