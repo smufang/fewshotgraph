@@ -181,7 +181,7 @@ This repository provides a curated collection of research papers focused on few-
 
 9. **HetGPT: Harnessing the power of prompt tuning in pre-trained heterogeneous graph neural networks.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645685).\
 [![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
-[![Feature prompt](https://img.shields.io/badge/Feature_prompt-input-red)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
 
@@ -256,7 +256,7 @@ This repository provides a curated collection of research papers focused on few-
 #### Prompting on Text-attributed Graphs
 1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), [Code](https://github.com/WenZhihao666/G2P2).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
-[![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-vector-red)](#)
+[![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-Vector-red)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
 
 2. **Prompt tuning on graph-augmented low-resource text classification.** In *TKDE'2024*, [Paper](https://smufang.github.io/paper/TKDE24_G2P2Star.pdf), [Code](https://github.com/WenZhihao666/G2P2-conditional).\
