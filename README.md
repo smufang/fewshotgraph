@@ -66,6 +66,11 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Hybrid-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node,%20Edge-yellow)](#)
 
+8. **Learning to extrapolate knowledge: Transductive few-shot out-of-graph link prediction.** In *NeurIPS'2020*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/0663a4ddceacb40b095eda264a85f15c-Paper.pdf), [Code](https://github.com/JinheonBaek/GEN).\
+[![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Subgraph-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
+
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
 
