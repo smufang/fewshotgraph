@@ -23,6 +23,8 @@ This repository provides a curated collection of research papers focused on few-
         - [Generative Strategies](#generative-strategies)
       - [Adaptation by Finetuning](#finetuning)
       - [Parameter-efficient Adaptation](#parameter-efficient)
+        - [Prompting on Text-free Graphs](#text-free-graph)
+        - [Prompting on Text-attributed Graphs](#tag)
     - [Hybrid Approaches](#hybrid) 
   - [Contributing](#contributing)
   - [Citation](#citation)
@@ -125,6 +127,12 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="parameter-efficient"></a>
 ### Parameter-efficient Adaptation
+
+<a name="text-free-graph"></a>
+#### Prompting on Text-free Graphs
+
+<a name="tag"></a>
+#### Prompting on Text-attributed Graphs
 
 <a name="contributing"></a>
 ## Contributing
