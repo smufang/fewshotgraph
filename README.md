@@ -254,6 +254,36 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="tag"></a>
 #### Prompting on Text-attributed Graphs
+1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), [code](https://github.com/WenZhihao666/G2P2).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
+[![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-vector-red)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+2. **Prompt tuning on graph-augmented low-resource text classification.** In *TKDE'2024*, [Paper](https://smufang.github.io/paper/TKDE24_G2P2Star.pdf), [code](https://github.com/WenZhihao666/G2P2-conditional).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
+[![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-Condition--net-red)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+2. **GraphGPT: Graph instruction tuning for large language models.** In *SIGIR'2024*, [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775), [code](https://github.com/HKUDS/GraphGPT).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+3. **Natural language is all a graph needs.** In *EACL'2024*, [Paper](https://arxiv.org/abs/2308.07134), [code](https://github.com/agiresearch/InstructGLM).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+4. **GIMLET: A unified graph-text model for instruction-based molecule zero-shot learning.** In *NeurIPS'2023*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html), [code]( https://github.com/zhao-ht/GIMLET).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Graph-blue)](#)
+
+5. **One for all: Towards training one graph model for all classification tasks.** In *ICLR'2024*, [Paper](https://openreview.net/pdf?id=4IT2pgc9v6), [code]( https://github.com/LechengKong/OneForAll).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Text,_Edge,_Graph-blue)](#)
+
+6. **HiGPT: Heterogeneous graph language model.** In *KDD'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671987), [code](https://github.com/HKUDS/HiGPT).\
+[![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
 
 <a name="contributing"></a>
 ## Contributing
