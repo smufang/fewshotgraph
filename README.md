@@ -136,7 +136,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
 
-2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.** In *CIKM'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615505).\
+2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.** In *CIKM'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615505), [code](https://github.com/WenZhihao666/VPGNN).\
 [![Template](https://img.shields.io/badge/Template-Node--token_matching-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
@@ -148,6 +148,67 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
 
+4. **Motif-based prompt learning for universal cross-domain recommendation.** In *WSDM'2024*, [Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635754).\
+[![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Edge-blue)](#)
+
+5. **Generalized graph prompt: Toward a unification of pre-training and downstream tasks on graphs.** In *TKDE'2024*, [Paper](https://ieeexplore.ieee.org/abstract/document/10572358),[Code](https://github.com/Starlien95/GraphPrompt).\
+[![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-All_layers-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+6. **Non-Homophilic Graph Pre-Training and Prompt Learning.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2408.12594).\
+[![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Conditional-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+7. **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2405.13934).\
+[![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Pretext_tokens-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+8. **MultiGPrompt for multi-task pre-training and prompting on graphs.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423),[Code](https://github.com/Nashchou/MultiGPrompt).\
+[![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-All_layers-red)](#)
+[![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Pretext_tokens-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+9. **HetGPT: Harnessing the power of prompt tuning in pre-trained heterogeneous graph neural networks.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645685).\
+[![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-input-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+10. **Universal prompt tuning for graph neural networks.** In *NeurIPS'2023*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a4a1ee071ce0fe63b83bce507c9dc4d7-Abstract-Conference.html), [code](https://github.com/zjunet/GPF).\
+[![Template](https://img.shields.io/badge/Template-Universal_feature/spectral_space-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+11. **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645620).\
+[![Template](https://img.shields.io/badge/Template-universal_feature/spectral_space-brightgreen)](#) 
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Singal-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Graph-blue)](#)
+
+12. **Sgl-pt: A strong graph learner with graph prompt tuning.** In *arXiv'2023*, [Paper](https://arxiv.org/abs/2302.12449).\
+[![Template](https://img.shields.io/badge/Template-Dual--template-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Graph-blue)](#)
+
+13. **HGPrompt: Bridging homogeneous and heterogeneous graphs for few-shot prompt learning.** In *AAAI'2024*, [Paper](https://arxiv.org/pdf/2312.01878), [code](https://github.com/Starlien95/HGPrompt).\
+[![Template](https://img.shields.io/badge/Template-Dual--template,graph_template-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
 
 
 
