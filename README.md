@@ -46,7 +46,8 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MN-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
-4. **Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion.** In *EMNLP'2019*, [Paper](https://arxiv.org/pdf/1909.11359), [Code](https://github.com/ZihaoWang/Few-shot-KGC).\
+4. **Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion.** In *EMNLP'2019*, [Paper](https://arxiv.org/pdf/1909.11359), [Code](https://github.com/ZihaoWang/
+Few-shot-KGC.).\
 [![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Edge-brightgreen)](#) 
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
