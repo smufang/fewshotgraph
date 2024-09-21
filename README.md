@@ -20,7 +20,7 @@ This repository provides a curated collection of research papers focused on few-
     - [Pre-Training Approaches](#pre-training)
       - [Pre-Training Strategies](#pre-training-strategies)
       - [Adaptation by Finetuning](#finetuning)
-      - [Parameter Efficient Adaptation](#parameter-efficient)
+      - [Parameter-efficient Adaptation](#parameter-efficient)
     - [Hybrid Approaches](#hybrid) 
   - [Contributing](#contributing)
   - [Citation](#citation)
@@ -36,6 +36,17 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
+<a name="adaptation-enhancement"></a>
+### Adaptation-Based Enhancement
+
+<a name="pre-training"></a>
+## Pre-Training Approaches
+
+<a name="pre-training-strategies"></a>
+### Pre-Training Strategies
+
+<a name="parameter-efficient"></a>
+### Parameter-efficient Adaptation
 
 <a name="contributing"></a>
 ## Contributing
