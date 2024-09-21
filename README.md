@@ -71,6 +71,11 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
+9. **Towards locality-aware meta-learning of tail node embeddings on networks.** In *CIKM'2020*, [Paper](https://zemin-liu.github.io/papers/CIKM-20-towards-locality-aware-meta-learning-of-tail-node-embeddings-on-network.pdf), [Code](https://github.com/smufang/meta-tail2vec).\
+[![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Subgraph-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node,%20Edge-yellow)](#)
+
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
 
