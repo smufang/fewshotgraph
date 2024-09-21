@@ -84,6 +84,16 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
+2. **Meta-Inductive Node Classification across Graphs.** In *SIGIR'2021*, [Paper](https://arxiv.org/pdf/2105.06725), [Code](https://github.com/WenZhihao666/MI-GNN).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Graph-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-Hybrid-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
+
+3. **Prototypical networks for few-shot learning.** In *NeurIPS'2017*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/cb8da6767461f2812ae4290eac7cbc42-Paper.pdf), [Code](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Task-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
+
 <a name="pre-training"></a>
 ## Pre-Training Approaches
 
