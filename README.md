@@ -36,10 +36,10 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
-2. **Graph Prototypical Networks for Few-shot Learning on Attributed Networks.** In *CIKM'2020*, [Paper](https://arxiv.org/pdf/2006.12739), [Code](https://github.com/kaize0409/GPN_Graph-Few-shot).\
+2. **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.** In *EMNLP'2020*, [Paper](https://arxiv.org/pdf/2010.09638), [Code](https://github.com/JiaweiSheng/FAAN).\
 [![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Node-brightgreen)](#) 
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
-[![Task](https://img.shields.io/badge/Task-Node,%20Graph-yellow)](#)
+[![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
