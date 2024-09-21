@@ -56,6 +56,16 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
+6. **Meta-learning on heterogeneous information networks for cold-start recommendation.** In *KDD'2020*, [Paper](https://fangyuan1st.github.io/paper/KDD20_MetaHIN.pdf), [Code](https://github.com/rootlu/MetaHIN).\
+[![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Path-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
+
+7. **Graph meta learning via local subgraphs.** In *NeurIPS'2020*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf), [Code](https://github.com/mims-harvard/G-Meta).\
+[![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Subgraph-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-Hybrid-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node,%20Edge-yellow)](#)
+
 <a name="adaptation-enhancement"></a>
 ### Adaptation-Based Enhancement
 
