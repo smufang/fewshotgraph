@@ -192,7 +192,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
 
 11. **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** In *WWW'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645620).\
-[![Template](https://img.shields.io/badge/Template-universal_feature/spectral_space-brightgreen)](#) 
+[![Template](https://img.shields.io/badge/Template-Universal_feature/spectral_space-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Singal-red)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Graph-blue)](#)
