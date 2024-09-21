@@ -205,10 +205,49 @@ This repository provides a curated collection of research papers focused on few-
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Graph-blue)](#)
 
 13. **HGPrompt: Bridging homogeneous and heterogeneous graphs for few-shot prompt learning.** In *AAAI'2024*, [Paper](https://arxiv.org/pdf/2312.01878), [code](https://github.com/Starlien95/HGPrompt).\
-[![Template](https://img.shields.io/badge/Template-Dual--template,graph_template-brightgreen)](#)
+[![Template](https://img.shields.io/badge/Template-Dual--template,_graph_template-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+14. **PSP: Pre-training and structure prompt tuning for graph neural networks.** In *arXiv'2024*, [Paper](https://arxiv.org/pdf/2310.17394),[code](https://github.com/gqq1210/PSP).\
+[![Template](https://img.shields.io/badge/Template-View_similarity-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Graph-blue)](#)
+
+15. **ULTRA-DP: Unifying graph pre-training with multi-task graph dual prompt.** In *arXiv'2023*, [Paper](https://arxiv.org/pdf/2310.14845),[code](https://github.com/Keytoyze/ULTRA-DP).\
+[![Template](https://img.shields.io/badge/Template-Node--node/group_similarity-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge-blue)](#)
+
+16. **Virtual node tuning for few-shot node classification.** In *KDD'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599541).\
+[![Template](https://img.shields.io/badge/Template-Node_attribute_reconstruction,_structure_recovery-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Meta--trained-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node-blue)](#)
+
+17. **All in one: Multi-task prompting for graph neural networks.** In *KDD'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256), [code](https://github.com/sheldonresearch/ProG).\
+[![Template](https://img.shields.io/badge/Template-Subgraph_classification-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Meta--trained-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge,_Graph-blue)](#)
+
+18. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2405.13937).\
+[![Template](https://img.shields.io/badge/Template-Temporal_node_similarity-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Conditional-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge-blue)](#)
+
+19. **Prompt learning on temporal interaction graphs.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2402.06326).\
+[![Template](https://img.shields.io/badge/Template-Temporal_node_similarity-brightgreen)](#)
+[![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
+[![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Time--based-yellow)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_Task-Node,_Edge-blue)](#)
 
 
 
