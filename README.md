@@ -94,6 +94,12 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-Protonets-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
 
+4. **Graph Few-shot Learning with Attribute Matching.** In *CIKM'2020*, [Paper](https://www.researchgate.net/profile/Kaize-Ding/publication/346267392_Graph_Few-shot_Learning_with_Attribute_Matching/links/61687a7766e6b95f07cb607d/Graph-Few-shot-Learning-with-Attribute-Matching.pdf).\
+[![Structure enhancement](https://img.shields.io/badge/Adaptation%20enhancement-Task-brightgreen)](#) 
+[![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
+[![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
+
+
 <a name="pre-training"></a>
 ## Pre-Training Approaches
 
