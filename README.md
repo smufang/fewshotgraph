@@ -309,14 +309,14 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
-[🔥**GraphPrompt** A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)](https://arxiv.org/abs/2402.01440)
+[🔥**GraphPrompt** A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)](https://arxiv.org/abs/2302.08043)
 
 ```bibtex
-@article{yu2024few,
-  title={Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting},
-  author={Yu, Xingtong and Fang, Yuan and Liu, Zemin and Wu, Yuxia and Wen, Zhihao and Bo, Jianyuan and Zhang, Xinming and Hoi, Steven CH},
-  journal={arXiv preprint arXiv:2402.01440},
-  year={2024}
+@inproceedings{liu2023graphprompt,
+  title={Graphprompt: Unifying pre-training and downstream tasks for graph neural networks},
+  author={Liu, Zemin and Yu, Xingtong and Fang, Yuan and Zhang, Xinming},
+  booktitle={WWW},
+  year={2023}
 }
-bibtex```
+```
 
