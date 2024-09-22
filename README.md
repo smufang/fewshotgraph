@@ -279,7 +279,7 @@ This repository provides a curated collection of research papers focused on few-
 
 5. **One for all: Towards training one graph model for all classification tasks.** In *ICLR'2024*, [Paper](https://openreview.net/pdf?id=4IT2pgc9v6), [Code]( https://github.com/LechengKong/OneForAll).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
-[![Downstream Task](https://img.shields.io/badge/Downstream_task-Text,_Edge,_Graph-blue)](#)
+[![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
 6. **HiGPT: Heterogeneous graph language model.** In *KDD'2024*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671987), [Code](https://github.com/HKUDS/HiGPT).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
