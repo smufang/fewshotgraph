@@ -309,7 +309,7 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
-[🔥**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
+🔥[**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
