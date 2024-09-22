@@ -55,7 +55,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Edge-yellow)](#)
 
-5. 🌟**Relative and absolute location embedding for few-shot node classification on graph.** In *AAAI'2021*, [Paper](https://zemin-liu.github.io/papers/Relative%20and%20Absolute%20Location%20Embedding%20for%20Few-Shot%20Node%20Classification%20on%20Graph.pdf), [Code](https://github.com/shuaiOKshuai/RALE).\
+5. **Relative and absolute location embedding for few-shot node classification on graph.** In *AAAI'2021* 🌟, [Paper](https://zemin-liu.github.io/papers/Relative%20and%20Absolute%20Location%20Embedding%20for%20Few-Shot%20Node%20Classification%20on%20Graph.pdf), [Code](https://github.com/shuaiOKshuai/RALE).\
 [![Structure enhancement](https://img.shields.io/badge/Structure%20enhancement-Path-brightgreen)](#) 
 [![Meta learner](https://img.shields.io/badge/Meta%20learner-MAML-red)](#) 
 [![Task](https://img.shields.io/badge/Task-Node-yellow)](#)
@@ -142,7 +142,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
-3. 🌟**Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.** In *WWW'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386), [Code](https://github.com/Starlien95/GraphPrompt).\
+3. **Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.** In *WWW'2023* 🌟, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386), [Code](https://github.com/Starlien95/GraphPrompt).\
 [![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
@@ -154,7 +154,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Edge-blue)](#)
 
-5. 🌟**Generalized graph prompt: Toward a unification of pre-training and downstream tasks on graphs.** In *TKDE'2024*, [Paper](https://ieeexplore.ieee.org/abstract/document/10572358),[Code](https://github.com/Starlien95/GraphPrompt).\
+5. **Generalized graph prompt: Toward a unification of pre-training and downstream tasks on graphs.** In *TKDE'2024* 🌟, [Paper](https://ieeexplore.ieee.org/abstract/document/10572358),[Code](https://github.com/Starlien95/GraphPrompt).\
 [![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-All_layers-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
@@ -231,7 +231,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Meta--trained-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
-17. 🌟**All in one: Multi-task prompting for graph neural networks.** In *KDD'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256), [Code](https://github.com/sheldonresearch/ProG).\
+17. **All in one: Multi-task prompting for graph neural networks.** In *KDD'2023* 🌟, [Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256), [Code](https://github.com/sheldonresearch/ProG).\
 [![Template](https://img.shields.io/badge/Template-Subgraph_classification-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Meta--trained-yellow)](#)
@@ -254,7 +254,7 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="tag"></a>
 #### Prompting on Text-attributed Graphs
-1. 🌟**Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), 
+1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023* 🌟, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), 
  [Code](https://github.com/WenZhihao666/G2P2).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
 [![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-Vector-red)](#)
@@ -277,7 +277,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Graph-blue)](#)
 
-5. 🌟**One for all: Towards training one graph model for all classification tasks.** In *ICLR'2024*, [Paper](https://openreview.net/pdf?id=4IT2pgc9v6), [Code]( https://github.com/LechengKong/OneForAll).\
+5. **One for all: Towards training one graph model for all classification tasks.** In *ICLR'2024* 🌟, [Paper](https://openreview.net/pdf?id=4IT2pgc9v6), [Code]( https://github.com/LechengKong/OneForAll).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text,_Graph-brightgreen)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
