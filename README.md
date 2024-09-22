@@ -293,3 +293,18 @@ This repository provides a curated collection of research papers focused on few-
 
 If you have any relevant resources to share, please feel free to open an issue or submit a pull request.
 
+<a name="citation"></a>
+## Citation
+
+If you find this repo helpful to you, please feel free to cite these works:
+
+### [Survey Paper](#)
+
+```bibtex
+@article{yu2024few,
+  title={Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting},
+  author={Yu, Xingtong and Fang, Yuan and Liu, Zemin and Wu, Yuxia and Wen, Zhihao and Bo, Jianyuan and Zhang, Xinming and Hoi, Steven CH},
+  journal={arXiv preprint arXiv:2402.01440},
+  year={2024}
+}
+
