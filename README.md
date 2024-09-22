@@ -254,7 +254,7 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="tag"></a>
 #### Prompting on Text-attributed Graphs
-1. **Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), 
+1. 🌟**Augmenting low-resource text classification with graph-grounded pre-training and prompting.** In *SIGIR'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591641), 
  [Code](https://github.com/WenZhihao666/G2P2).\
 [![Instruction](https://img.shields.io/badge/Instruction-Text-brightgreen)](#)
 [![Learnable prompt](https://img.shields.io/badge/Learnable_prompt-Vector-red)](#)
@@ -298,7 +298,7 @@ If you have any relevant resources to share, please feel free to open an issue o
 
 If you find this repo helpful to you, please feel free to cite these works:
 
-[Survey Paper](https://arxiv.org/abs/2402.01440)
+🔥[Survey Paper](https://arxiv.org/abs/2402.01440)
 
 ```bibtex
 @article{yu2024few,
@@ -309,7 +309,7 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
-🔥[**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
+🔥[**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative GNN Prompting Framework. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
