@@ -160,13 +160,13 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-6. **Non-Homophilic Graph Pre-Training and Prompt Learning.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2408.12594).\
+6. **Non-Homophilic Graph Pre-Training and Prompt Learning.** *Preprint*, [Paper](https://arxiv.org/abs/2408.12594).\
 [![Template](https://img.shields.io/badge/Template-Subgraph_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Conditional-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-7. **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2405.13934).\
+7. **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models.** *Preprint*, [Paper](https://arxiv.org/abs/2405.13934).\
 [![Template](https://img.shields.io/badge/Template-Node_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Readout-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Pretext_tokens-yellow)](#)
@@ -197,7 +197,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Graph-blue)](#)
 
-12. **Sgl-pt: A strong graph learner with graph prompt tuning.** In *arXiv'2023*, [Paper](https://arxiv.org/abs/2302.12449).\
+12. **Sgl-pt: A strong graph learner with graph prompt tuning.** *Preprint*, [Paper](https://arxiv.org/abs/2302.12449).\
 [![Template](https://img.shields.io/badge/Template-Dual--template-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
@@ -210,14 +210,14 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-14. **PSP: Pre-training and structure prompt tuning for graph neural networks.** In *arXiv'2024*, [Paper](https://arxiv.org/pdf/2310.17394), [Code](https://github.com/gqq1210/PSP).\
+14. **PSP: Pre-training and structure prompt tuning for graph neural networks.** In *Preprint*, [Paper](https://arxiv.org/pdf/2310.17394), [Code](https://github.com/gqq1210/PSP).\
 [![Template](https://img.shields.io/badge/Template-View_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Multiple pretext tasks](https://img.shields.io/badge/Multiple_pretext_tasks-deeppink)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Graph-blue)](#)
 
-15. **ULTRA-DP: Unifying graph pre-training with multi-task graph dual prompt.** In *arXiv'2023*, [Paper](https://arxiv.org/pdf/2310.14845), [Code](https://github.com/Keytoyze/ULTRA-DP).\
+15. **ULTRA-DP: Unifying graph pre-training with multi-task graph dual prompt.** *Preprint*, [Paper](https://arxiv.org/pdf/2310.14845), [Code](https://github.com/Keytoyze/ULTRA-DP).\
 [![Template](https://img.shields.io/badge/Template-Node--node/group_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
 [![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
@@ -237,13 +237,13 @@ This repository provides a curated collection of research papers focused on few-
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Meta--trained-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge,_Graph-blue)](#)
 
-18. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2405.13937).\
+18. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs.** *Preprint*, [Paper](https://arxiv.org/abs/2405.13937).\
 [![Template](https://img.shields.io/badge/Template-Temporal_node_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Conditional-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node,_Edge-blue)](#)
 
-19. **Prompt learning on temporal interaction graphs.** In *arXiv'2024*, [Paper](https://arxiv.org/abs/2402.06326).\
+19. **Prompt learning on temporal interaction graphs.** *Preprint*, [Paper](https://arxiv.org/abs/2402.06326).\
 [![Template](https://img.shields.io/badge/Template-Temporal_node_similarity-brightgreen)](#)
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#)
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Time--based-yellow)](#)
