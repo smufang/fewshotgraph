@@ -296,7 +296,7 @@ If you have any relevant resources to share, please feel free to open an issue o
 <a name="citation"></a>
 ## Citation
 
-If you find this repo helpful to you, please feel free to cite these works:
+If you find this repository useful, please feel free to cite the following works:
 
 🔥 [**Survey Paper**](https://arxiv.org/abs/2402.01440)
 
@@ -309,7 +309,7 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
-🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative GNN Prompting Framework. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
+🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Graph Prompt Learning Method. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
