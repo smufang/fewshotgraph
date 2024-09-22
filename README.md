@@ -307,6 +307,7 @@ If you find this repo helpful to you, please feel free to cite these works:
   journal={arXiv preprint arXiv:2402.01440},
   year={2024}
 }
+```bibtex
 
 [**GraphPrompt** A Representative GNN Prompting Framework, One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)](https://arxiv.org/abs/2402.01440)
 
