@@ -309,7 +309,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Graph Prompt Learning Method for Few-shot Learning. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
+🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Prompt Learning Method for Few-shot Learning on Graphs. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
