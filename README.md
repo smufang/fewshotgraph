@@ -130,7 +130,7 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="text-free-graph"></a>
 #### Prompting on Text-free Graphs
-1. **GPPT: Graph pre-training and prompt tuning to generalize graph neural networks.** In *KDD'2022*, [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249).\
+1. **GPPT: Graph pre-training and prompt tuning to generalize graph neural networks.** In *KDD'2022*, [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249), [Code](https://github.com/MingChen-Sun/GPPT).\
 [![Template](https://img.shields.io/badge/Template-Subgraph--token_similarity-brightgreen)](#) 
 [![Feature prompt](https://img.shields.io/badge/Feature_prompt-Input-red)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
