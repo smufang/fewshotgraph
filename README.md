@@ -298,7 +298,7 @@ If you have any relevant resources to share, please feel free to open an issue o
 
 If you find this repo helpful to you, please feel free to cite these works:
 
-🔥 [Survey Paper](https://arxiv.org/abs/2402.01440)
+🔥 [**Survey Paper**](https://arxiv.org/abs/2402.01440)
 
 ```bibtex
 @article{yu2024few,
