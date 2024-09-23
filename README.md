@@ -508,7 +508,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**ProNoG**]=(https://arxiv.org/abs/2408.12594v2) A Non-homophilic Graph Prompt Method.
+🔥 [**ProNoG**](https://arxiv.org/abs/2408.12594v2) A Non-homophilic Graph Prompt Method.
 
 ```bibtex
 @article{yu2024non,
