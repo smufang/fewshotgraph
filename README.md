@@ -118,7 +118,7 @@ This repository provides a curated collection of research papers focused on few-
 1. **Deep Graph Contrastive Representation Learning.** *Preprint*, [Paper](https://arxiv.org/pdf/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE).\
 [![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
 [![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
-[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+[![Graph types](https://img.shields.io/badge/Graph_Types-General-yellow)](#)
 
 2. **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.09963), [Code](https://github.com/THUDM/GCC).\
 [![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
@@ -287,7 +287,7 @@ This repository provides a curated collection of research papers focused on few-
 
 2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.** In *CIKM'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615505), [Code](https://github.com/WenZhihao666/VPGNN).\
 [![Template](https://img.shields.io/badge/Template-Node--token_matching-brightgreen)](#) 
-[![Feature prompt](https://img.shields.io/badge/Structure_prompt-black)](#) 
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
