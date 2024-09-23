@@ -453,7 +453,7 @@ If you have any relevant resources to share, please feel free to open an issue o
 
 If you find this repository useful, please feel free to cite the following works:
 
-🔥 [**Survey Paper**](https://arxiv.org/abs/2402.01440)
+[**Survey Paper**](https://arxiv.org/abs/2402.01440)
 
 ```bibtex
 @article{yu2024few,
@@ -464,7 +464,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Prompt Learning Method on Graphs. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version).
+[**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Prompt Learning Method on Graphs. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version).
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
@@ -475,7 +475,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**GraphPrompt+**](https://arxiv.org/pdf/2311.15317) A Generalized Graph Prompt Method.
+[**GraphPrompt+**](https://arxiv.org/pdf/2311.15317) A Generalized Graph Prompt Method.
 
 ```bibtex
 @article{yu2023generalized,
@@ -486,7 +486,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**HGPrompt**](https://arxiv.org/pdf/2312.01878) A Heterogeneous Graph Prompt Method.
+[**HGPrompt**](https://arxiv.org/pdf/2312.01878) A Heterogeneous Graph Prompt Method.
 
 ```bibtex
 @inproceedings{yu2024hgprompt,
@@ -497,7 +497,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**DyGPrompt**](https://arxiv.org/pdf/2405.13937) A Dynamic Graph Prompt Method.
+[**DyGPrompt**](https://arxiv.org/pdf/2405.13937) A Dynamic Graph Prompt Method.
 
 ```bibtex
 @article{yu2024dygprompt,
@@ -508,7 +508,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**ProNoG**](https://arxiv.org/abs/2408.12594v2) A Non-homophilic Graph Prompt Method.
+[**ProNoG**](https://arxiv.org/abs/2408.12594v2) A Non-homophilic Graph Prompt Method.
 
 ```bibtex
 @article{yu2024non,
@@ -519,7 +519,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**MultiGPrompt**](https://arxiv.org/pdf/2312.03731) A Multi-task Pre-training and Graph Prompt Method.
+[**MultiGPrompt**](https://arxiv.org/pdf/2312.03731) A Multi-task Pre-training and Graph Prompt Method.
 
 ```bibtex
 @inproceedings{yu2024multigprompt,
@@ -530,7 +530,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**MDGPT**](https://arxiv.org/pdf/2405.13934) A Multi-domain Pre-training and Graph Prompt Method.
+[**MDGPT**](https://arxiv.org/pdf/2405.13934) A Multi-domain Pre-training and Graph Prompt Method.
 
 ```bibtex
 @article{yu2024few,
