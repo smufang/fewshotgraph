@@ -120,6 +120,100 @@ This repository provides a curated collection of research papers focused on few-
 [![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
 
+2. **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.09963), [Code](https://github.com/THUDM/GCC).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+3. **Graph Contrastive Learning with Augmentations**, In *NeurIPS'2020*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf), [Code](https://github.com/Shen-Lab/GraphCL).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+4. **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation**, In *WWW'2022*, [Paper](https://arxiv.org/pdf/2202.03104), [Code](https://github.com/junxia97/SimGRACE).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Perturbing_encoder-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+5. **Self-supervised Graph-level Representation Learning with Local and Global Structure**, In *ICML'2021*, [Paper](https://proceedings.mlr.press/v139/xu21g/xu21g.pdf), [Code](https://github.com/DeepGraphLearning/GraphLoG).\
+[![Instance](https://img.shields.io/badge/Instance-Dataset-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+6. **Deep Graph Infomax**, In *ICLR'2019*, [Paper](https://arxiv.org/pdf/1809.10341), [Code](https://github.com/PetarV-/DGI).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+7. **InfoGraph: Unsupervised Representation Learning on Graphs**, In *ICLR'2020*, [Paper](https://arxiv.org/pdf/1908.01000), [Code](https://github.com/sunfanyunn/InfoGraph).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+8. **Subgraph Contrast for Scalable Self-Supervised Graph Representation Learning**, *Preprint*, [Paper](https://arxiv.org/pdf/2009.10273), [Code](https://github.com/yzjiao/Subg-Con.).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+9. **Contrastive Multi-View Representation Learning on Graphs**, In *ICML'2020*, [Paper](https://arxiv.org/pdf/2006.05582), [Code](https://github.com/kavehhassani/mvgrl).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Diffusion-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+10. **Automated Graph Contrastive Learning**, In *NeurIPS'2021*, [Paper](https://arxiv.org/pdf/2106.07594), [Code](https://github.com/Shen-Lab/GraphCL_Automated).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Adaptive_to_loss-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+11. **Contrastive General Graph Matching with Adaptive Augmentation Sampling**, In *IJCAI'2024*, [Paper](https://arxiv.org/abs/2406.17199), [Code](https://github.com/jybosg/GCGM-BiAS).\
+[![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Adaptive_to_loss-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+12. **Bringing Your Own View: Graph Contrastive Learning with Generated Views**, In *ACM international conference on web search and data mining'2022*, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9130056/), [Code](https://github.com/Shen-Lab/GraphCL_Automated).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-View_generator-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+13. **Graph Contrastive Learning with Adaptive Augmentation**, In *WWW'2021*, [Paper](https://arxiv.org/pdf/2106.07594), [Code](https://github.com/CRIPAC-DIG/GCA).\
+[![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Adaptive_to_instance-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
+
+14. **Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning**, In *KDD'2021*, [Paper](https://arxiv.org/pdf/2008.03210), [Code](https://github.com/liun-online/HeCo).\
+[![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-Heterogeneous-yellow)](#)
+
+15. **Contrastive Pre-Training of GNNs on Heterogeneous Graphs**, In *CIKM'2021*, [Paper](https://yuanfulu.github.io/publication/CIKM-CPT.pdf), [Code](https://github.com/BUPT-GAMMA/CPT-HG).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-Heterogeneous-yellow)](#)
+
+16. **Pre-training on Large-scale Heterogeneous Graph**, In *KDD'2021*, [Paper](http://www.shichuan.org/doc/113.pdf), [Code](https://github.com/BUPT-GAMMA/PTHGNN).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-Heterogeneous-yellow)](#)
+
+17. **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**, In *CIKM'2022*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557222).\
+[![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Curvature_over_time-red)](#)
+[![Graphtypes](https://img.shields.io/badge/Graph_types-Dynamic-yellow)](#)
+
+18. **Self-supervised Representation Learning on Dynamic Graphs**, In *CIKM'2021*, [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482389).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-Dynamic-yellow)](#)
+
+19. **CPDG: A Contrastive Pre-training Method for Dynamic Graph Neural Networks**, In *ICDE'2024*, [Paper](https://arxiv.org/pdf/2307.02813), [Code](https://github.com/YuanchenBei/CPDG/).\
+[![Instance](https://img.shields.io/badge/Instance-Cross--scale-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Temporal--aware_sampling-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-Dynamic-yellow)](#)
+
+20. **Protein representation learning by geometric structure pretraining**, In *ICLR'2023*, [Paper](https://arxiv.org/pdf/2203.06125), [Code](https://github.com/DeepGraphLearning/GearNet).\
+[![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-3D-yellow)](#)
 
 <a name="generative-strategies"></a>
 #### Generative Strategies
