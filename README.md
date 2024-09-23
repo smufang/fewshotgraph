@@ -10,7 +10,8 @@ This repository provides a curated collection of research papers focused on few-
 
 - [Awesome Few-Shot Learning on Graphs](#awesome-few-shot-learning-on-graphs)
   - [Table of Contents](#table-of-contents)
-  - [Few-shot Learning problems on Graphs](#problem)
+  - [Few-shot Learning Problems on Graphs](#problem)
+  - [Few-shot Learning Techiniques on Graphs](#technique)
   - [Meta-Learning Approaches](#meta-learning-approaches)
     - [Structure-Based Enhancement](#structure-based-enhancement)
     - [Adaptation-Based Enhancement](#adaptation-based-enhancement)
@@ -28,6 +29,9 @@ This repository provides a curated collection of research papers focused on few-
 ## Few-shot Learning problems on Graphs
 <img src="https://raw.githubusercontent.com/smufang/fewshotgraph/main/figures/Taxonomy%20of%20problem.jpg" alt="Taxonomy of Problem" width="600"/>
 
+<a name="technique"></a>
+## Few-shot Learning Techniques on Graphs
+<img src="https://raw.githubusercontent.com/smufang/fewshotgraph/main/figures/Taxonomy_of_technique.jpg" alt="Taxonomy of Problem" width="600"/>
 
 
 <a name="meta-learning"></a>
