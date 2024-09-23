@@ -541,4 +541,14 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
+Methods for Structure Scarce Problem.
+
+```bibtex
+@article{yu2024few,
+  title={Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting},
+  author={Yu, Xingtong and Fang, Yuan and Liu, Zemin and Wu, Yuxia and Wen, Zhihao and Bo, Jianyuan and Zhang, Xinming and Hoi, Steven CH},
+  journal={arXiv preprint arXiv:2402.01440},
+  year={2024}
+}
+```
 
