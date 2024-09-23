@@ -26,7 +26,8 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="problem"></a>
 ## Few-shot Learning problems on Graphs
-![Example image](figures/Taxonomy of problem.jpg)
+![Taxonomy of Problem](https://raw.githubusercontent.com/smufang/fewshotgraph/main/figures/Taxonomy%20of%20problem.jpg)
+
 
 <a name="meta-learning"></a>
 ## Meta-Learning Approaches
