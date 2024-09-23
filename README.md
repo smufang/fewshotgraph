@@ -116,9 +116,9 @@ This repository provides a curated collection of research papers focused on few-
 <a name="contrastive-strategies"></a>
 #### Contrastive Strategies
 1. **Deep Graph Contrastive Representation Learning.** *Preprint*, [Paper](https://arxiv.org/pdf/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE).\
-[![Instance](https://img.shields.io/badge/node-brightgreen)](#)
-[![Augmentation](https://img.shields.io/badge/uniform-red)](#)
-[![Graph types](https://img.shields.io/badge/general-yellow)](#)
+[![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
 
 
 <a name="generative-strategies"></a>
