@@ -471,6 +471,7 @@ If you find this repository useful, please feel free to cite the following works
   title={Graphprompt: Unifying pre-training and downstream tasks for graph neural networks},
   author={Liu, Zemin and Yu, Xingtong and Fang, Yuan and Zhang, Xinming},
   booktitle={WWW},
+  pages={417--428},
   year={2023}
 }
 ```
@@ -489,10 +490,11 @@ If you find this repository useful, please feel free to cite the following works
 [**HGPrompt**](https://arxiv.org/pdf/2312.01878) A Heterogeneous Graph Prompt Method.
 
 ```bibtex
-@inproceedings{yu2024hgprompt,
+@inproceedings{yu2023hgprompt,
   title={HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning},
   author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
   booktitle={AAAI},
+  pages={16578--16586},
   year={2024}
 }
 ```
@@ -526,6 +528,7 @@ If you find this repository useful, please feel free to cite the following works
   title={MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs},
   author={Yu, Xingtong and Zhou, Chang and Fang, Yuan and Zhang, Xinming},
   booktitle={WWW},
+  pages={515--526},
   year={2024}
 }
 ```
@@ -544,11 +547,22 @@ If you find this repository useful, please feel free to cite the following works
 Methods for Structure Scarce Problem.
 
 ```bibtex
-@article{yu2024few,
-  title={Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting},
-  author={Yu, Xingtong and Fang, Yuan and Liu, Zemin and Wu, Yuxia and Wen, Zhihao and Bo, Jianyuan and Zhang, Xinming and Hoi, Steven CH},
-  journal={arXiv preprint arXiv:2402.01440},
-  year={2024}
+@inproceedings{liu2021relative,
+  title={Relative and absolute location embedding for few-shot node classification on graph},
+  author={Liu, Zemin and Fang, Yuan and Liu, Chenghao and Hoi, Steven CH},
+  booktitle={AAAI},
+  volume={35},
+  number={5},
+  pages={4267--4275},
+  year={2021}
+}
+
+@inproceedings{liu2020towards,
+  title={Towards locality-aware meta-learning of tail node embeddings on networks},
+  author={Liu, Zemin and Zhang, Wentao and Fang, Yuan and Zhang, Xinming and Hoi, Steven CH},
+  booktitle={CIKM},
+  pages={975--984},
+  year={2020}
 }
 ```
 
