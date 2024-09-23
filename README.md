@@ -8,24 +8,18 @@ This repository provides a curated collection of research papers focused on few-
 <a name="table-of-contents"></a>
 ## Table of Contents
 
-- [Awesome Few-Shot Learning on Graphs](#awesome-few-shot)
+- [Awesome Few-Shot Learning on Graphs](#awesome-few-shot-learning-on-graphs)
   - [Table of Contents](#table-of-contents)
-  - [Few-Shot Learning on Graphs: Problems](#few-shot-problem)
-    - [Label Scarcity](#label-sacrcity)
-    - [Structure Scarcity](#structure-sacrcity)
-  - [Few-Shot Learning on Graphs: Techniques](#few-shot-technique)
-    - [Meta-Learning Approaches](#meta-learning)
-      - [Structure-Based Enhancement](#structure-enhancement)
-      - [Adaptation-Based Enhancement](#adaptation-enhancement)
-    - [Pre-Training Approaches](#pre-training)
-      - [Pre-Training Strategies](#pre-training-strategies)
-        - [Contrastive Strategies](#contrastive-strategies)
-        - [Generative Strategies](#generative-strategies)
-      - [Adaptation by Finetuning](#finetuning)
-      - [Parameter-efficient Adaptation](#parameter-efficient)
-        - [Prompting on Text-free Graphs](#text-free-graph)
-        - [Prompting on Text-attributed Graphs](#tag)
-    - [Hybrid Approaches](#hybrid) 
+  - [Meta-Learning Approaches](#meta-learning-approaches)
+    - [Structure-Based Enhancement](#structure-based-enhancement)
+    - [Adaptation-Based Enhancement](#adaptation-based-enhancement)
+  - [Pre-Training Approaches](#pre-training-approaches)
+    - [Pre-Training Strategies](#pre-training-strategies)
+      - [Contrastive Strategies](#contrastive-strategies)
+      - [Generative Strategies](#generative-strategies)
+    - [Parameter-efficient Adaptation](#parameter-efficient-adaptation)
+      - [Prompting on Text-free Graphs](#prompting-on-text-free-graphs)
+      - [Prompting on Text-attributed Graphs](#prompting-on-text-attributed-graphs)
   - [Contributing](#contributing)
   - [Citation](#citation)
 
@@ -121,6 +115,11 @@ This repository provides a curated collection of research papers focused on few-
 
 <a name="contrastive-strategies"></a>
 #### Contrastive Strategies
+1. **Deep Graph Contrastive Representation Learning.** *Preprint*, [Paper](https://arxiv.org/pdf/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE).\
+[![Instance](https://img.shields.io/badge/node-brightgreen)](#)
+[![Augmentation](https://img.shields.io/badge/uniform-red)](#)
+[![Graph types](https://img.shields.io/badge/general-yellow)](#)
+
 
 <a name="generative-strategies"></a>
 #### Generative Strategies
