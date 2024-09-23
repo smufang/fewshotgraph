@@ -218,15 +218,15 @@ This repository provides a curated collection of research papers focused on few-
 <a name="generative-strategies"></a>
 #### Generative Strategies
 1. **Variational Graph Auto-Encoders**, In *ICLR'2016*, [Paper](https://arxiv.org/pdf/1611.07308), [Code](https://github.com/tkipf/gae).\
-[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-adj._matrix-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-Adj._matrix-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 2. **GPT-GNN: Generative Pre-Training of Graph Neural Networks**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.15437), [Code](https://github.com/acbull/GPT-GNN).\
-[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,edge-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-Node_feat.,_Edge-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 3. **What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders**, In *KDD'2023*, [Paper](https://arxiv.org/pdf/2205.10053), [Code](https://github.com/EdisonLeeeee/MaskGAE).\
-[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_deg.,edge-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-Node_deg.,_Edge-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 4. **Graph Auto-encoder via Neighborhood Wasserst Reconstruction**, In *ICLR'2022*, [Paper](https://arxiv.org/pdf/2202.09025), [Code](https://github.com/mtang724/NWR-GAE).\
