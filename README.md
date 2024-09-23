@@ -464,7 +464,7 @@ If you find this repository useful, please feel free to cite the following works
 }
 ```
 
-🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Prompt Learning Method for Few-shot Learning on Graphs. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version).
+🔥 [**GraphPrompt**](https://arxiv.org/abs/2302.08043) A Representative Prompt Learning Method on Graphs. One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version).
 
 ```bibtex
 @inproceedings{liu2023graphprompt,
@@ -474,4 +474,71 @@ If you find this repository useful, please feel free to cite the following works
   year={2023}
 }
 ```
+
+🔥 [**GraphPrompt+**](https://arxiv.org/pdf/2311.15317) A Generalized Graph Prompt Method.
+
+```bibtex
+@article{yu2023generalized,
+  title={Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs},
+  author={Yu, Xingtong and Liu, Zhenghao and Fang, Yuan and Liu, Zemin and Chen, Sihong and Zhang, Xinming},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024}
+}
+```
+
+🔥 [**HGPrompt**](https://arxiv.org/pdf/2312.01878) A Heterogeneous Graph Prompt Method.
+
+```bibtex
+@inproceedings{yu2024hgprompt,
+  title={HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning},
+  author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
+  booktitle={AAAI},
+  year={2024}
+}
+```
+
+🔥 [**DyGPrompt**](https://arxiv.org/pdf/2405.13937) A Dynamic Graph Prompt Method.
+
+```bibtex
+@article{yu2024dygprompt,
+  title={DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs},
+  author={Yu, Xingtong and Liu, Zhenghao and Fang, Yuan and Zhang, Xinming},
+  journal={arXiv preprint arXiv:2405.13937},
+  year={2024}
+}
+```
+
+🔥 [**ProNoG**]=(https://arxiv.org/abs/2408.12594v2) A Non-homophilic Graph Prompt Method.
+
+```bibtex
+@article{yu2024non,
+  title={Non-Homophilic Graph Pre-Training and Prompt Learning},
+  author={Yu, Xingtong and Zhang, Jie and Fang, Yuan and Jiang, Renhe},
+  journal={arXiv preprint arXiv:2408.12594},
+  year={2024}
+}
+```
+
+🔥 [**MultiGPrompt**](https://arxiv.org/pdf/2312.03731) A Multi-task Pre-training and Graph Prompt Method.
+
+```bibtex
+@inproceedings{yu2024multigprompt,
+  title={MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs},
+  author={Yu, Xingtong and Zhou, Chang and Fang, Yuan and Zhang, Xinming},
+  booktitle={WWW},
+  year={2024}
+}
+```
+
+🔥 [**MDGPT**](https://arxiv.org/pdf/2405.13934) A Multi-domain Pre-training and Graph Prompt Method.
+
+```bibtex
+@article{yu2024few,
+  title={Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting},
+  author={Yu, Xingtong and Fang, Yuan and Liu, Zemin and Wu, Yuxia and Wen, Zhihao and Bo, Jianyuan and Zhang, Xinming and Hoi, Steven CH},
+  journal={arXiv preprint arXiv:2402.01440},
+  year={2024}
+}
+```
+
 
