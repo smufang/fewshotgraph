@@ -118,7 +118,7 @@ This repository provides a curated collection of research papers focused on few-
 1. **Deep Graph Contrastive Representation Learning.** *Preprint*, [Paper](https://arxiv.org/pdf/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE).\
 [![Instance](https://img.shields.io/badge/Instance-Node-brightgreen)](#)
 [![Augmentation](https://img.shields.io/badge/Augmentation-Uniform-red)](#)
-[![Graph types](https://img.shields.io/badge/Graph_Types-General-yellow)](#)
+[![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
 
 2. **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.09963), [Code](https://github.com/THUDM/GCC).\
 [![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
