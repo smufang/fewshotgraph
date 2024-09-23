@@ -218,59 +218,59 @@ This repository provides a curated collection of research papers focused on few-
 <a name="generative-strategies"></a>
 #### Generative Strategies
 1. **Variational Graph Auto-Encoders**, In *ICLR'2016*, [Paper](https://arxiv.org/pdf/1611.07308), [Code](https://github.com/tkipf/gae).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-adj._matrix-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-adj._matrix-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 2. **GPT-GNN: Generative Pre-Training of Graph Neural Networks**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.15437), [Code](https://github.com/acbull/GPT-GNN).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,edge-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,edge-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 3. **What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders**, In *KDD'2023*, [Paper](https://arxiv.org/pdf/2205.10053), [Code](https://github.com/EdisonLeeeee/MaskGAE).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_deg.,edge-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_deg.,edge-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 4. **Graph Auto-encoder via Neighborhood Wasserst Reconstruction**, In *ICLR'2022*, [Paper](https://arxiv.org/pdf/2202.09025), [Code](https://github.com/mtang724/NWR-GAE).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,node_deg.-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,node_deg.-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 5. **Self-supervised Representation Learning via Latent Graph Prediction**, In *NeurIPS'2022*, [Paper](https://proceedings.mlr.press/v162/xie22e/xie22e.pdf).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,graph_feat.-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,graph_feat.-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 6. **GraphMAE: Self-Supervised Masked Graph Autoencoders**, In *KDD'2022*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539321), [Code](https://github.com/THUDM/GraphMAE).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 7. **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner**, In *WWW'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583379), [Code](https://github.com/THUDM/GraphMAE2).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 8. **Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries**, In *KDD'2022*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539472), [Code](https://github.com/THUDM/kgTransformer).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-KG-red)](#)
 
 9. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**, In *WWW'2023*, [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583301), [Code](https://github.com/zjukg/KGTransformer).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,edge-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,edge-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-KG-red)](#)
 
 10. **Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**, In *CIKM'2023*, [Paper](https://dl.acm.org/doi/10.1145/3583780.3615110).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,edge,other-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,edge,other-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-KG-red)](#)
 
 11. **Pre-training on Dynamic Graph Neural Networks**, In *Neurocomputing'2022*, [Paper](https://arxiv.org/pdf/2202.03345), [Code](https://github.com/Mobzhang/PT-DGNN/).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-edge-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-edge-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-Dynamic-red)](#)
 
 12. **Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecastingn**, In *KDD'2022*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396), [Code](https://github.com/GestaltCogTeam/STEP).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-Dynamic-red)](#)
 
 13. **Pre-training Graph Transformer with Multimodal Side Information for Recommendation**, In *MM'2021*, [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475709), [Code](https://github.com/uoo723/PMGT).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,edge,other-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,edge,other-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-MMG-red)](#)
 
 14. **Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation**, In *RecSys'2023*, [Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608806), [Code](https://github.com/YuweiCao-UIC/ColdGPT).\
-[![Reconstruction](https://img.shields.io/badge/Reconstruction-node_feat.,other-brightgreen)](#)
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-node_feat.,other-brightgreen)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-MMG-red)](#)
 
 
