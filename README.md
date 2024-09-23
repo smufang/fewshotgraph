@@ -287,7 +287,7 @@ This repository provides a curated collection of research papers focused on few-
 
 2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.** In *CIKM'2023*, [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615505), [Code](https://github.com/WenZhihao666/VPGNN).\
 [![Template](https://img.shields.io/badge/Template-Node--token_matching-brightgreen)](#) 
-[![Feature prompt](https://img.shields.io/badge/Structure_prompt-8A2BE2)](#) 
+[![Feature prompt](https://img.shields.io/badge/Structure_prompt-black)](#) 
 [![Prompt Initialization](https://img.shields.io/badge/Prompt_initialization-Random-yellow)](#)
 [![Downstream Task](https://img.shields.io/badge/Downstream_task-Node-blue)](#)
 
