@@ -170,7 +170,7 @@ This repository provides a curated collection of research papers focused on few-
 [![Augmentation](https://img.shields.io/badge/Augmentation-Adaptive_to_loss-red)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
 
-12. **Bringing Your Own View: Graph Contrastive Learning with Generated Views**, In *ACM international conference on web search and data mining'2022*, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9130056/), [Code](https://github.com/Shen-Lab/GraphCL_Automated).\
+12. **Bringing Your Own View: Graph Contrastive Learning with Generated Views**, In *WSDM'2022*, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9130056/), [Code](https://github.com/Shen-Lab/GraphCL_Automated).\
 [![Instance](https://img.shields.io/badge/Instance-Graph-brightgreen)](#)
 [![Augmentation](https://img.shields.io/badge/Augmentation-View_generator-red)](#)
 [![Graph types](https://img.shields.io/badge/Graph_types-General-yellow)](#)
@@ -218,7 +218,7 @@ This repository provides a curated collection of research papers focused on few-
 <a name="generative-strategies"></a>
 #### Generative Strategies
 1. **Variational Graph Auto-Encoders**, In *ICLR'2016*, [Paper](https://arxiv.org/pdf/1611.07308), [Code](https://github.com/tkipf/gae).\
-[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-Adj._matrix-brightgreen)](#) 
+[![Reconstruction objective](https://img.shields.io/badge/Reconstruction_objective-Adj.-brightgreen)](#) 
 [![Graph types](https://img.shields.io/badge/Graph_types-General-red)](#)
 
 2. **GPT-GNN: Generative Pre-Training of Graph Neural Networks**, In *KDD'2020*, [Paper](https://arxiv.org/pdf/2006.15437), [Code](https://github.com/acbull/GPT-GNN).\
