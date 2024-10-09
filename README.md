@@ -23,7 +23,7 @@ This repository provides a curated collection of research papers focused on few-
       - [Prompting on Text-free Graphs](#prompting-on-text-free-graphs)
       - [Prompting on Text-attributed Graphs](#prompting-on-text-attributed-graphs)
   - [Contributing](#contributing)
-  - [Citation](#citation)
+  - [Citations](#citation)
 
 <a name="problem"></a>
 ## Few-shot Learning problems on Graphs
@@ -453,7 +453,7 @@ This repository provides a curated collection of research papers focused on few-
 If you have any relevant resources to share, please feel free to open an issue or submit a pull request.
 
 <a name="citation"></a>
-## Citation
+## Citations
 
 If you find this repository useful, please feel free to cite the following works:
 
