@@ -551,14 +551,31 @@ If you find this repository useful, please feel free to cite the following works
 Methods for Structure Scarce Problem.
 
 ```bibtex
-@inproceedings{liu2021relative,
-  title={Relative and absolute location embedding for few-shot node classification on graph},
-  author={Liu, Zemin and Fang, Yuan and Liu, Chenghao and Hoi, Steven CH},
-  booktitle={AAAI},
-  volume={35},
-  number={5},
-  pages={4267--4275},
+@inproceedings{liu2021tail,
+  title={Tail-GNN: Tail-node graph neural networks},
+  author={Liu, Zemin and Nguyen, Trung-Kien and Fang, Yuan},
+  booktitle={KDD},
+  pages={1109--1119},
   year={2021}
+}
+
+@inproceedings{lu2020meta,
+  title={Meta-learning on heterogeneous information networks for cold-start recommendation},
+  author={Lu, Yuanfu and Fang, Yuan and Shi, Chuan},
+  booktitle={KDD},
+  pages={1563--1573},
+  year={2020}
+}
+
+@article{liu2023locality,
+  title={Locality-aware tail node embeddings on homogeneous and heterogeneous networks},
+  author={Liu, Zemin and Fang, Yuan and Zhang, Wentao and Zhang, Xinming and Hoi, Steven CH},
+  journal={IEEE TKDE},
+  volume={36},
+  number={6},
+  pages={2517--2532},
+  year={2023},
+  publisher={IEEE}
 }
 
 @inproceedings{liu2020towards,
